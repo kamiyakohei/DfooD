@@ -23,8 +23,6 @@
           </ul>
         </section>
      </div>
-
-     
   </body>
   <footer>
     (c) DfooD.com
