@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+}
+
+ .list h1 {
+  font-size: 20px;
+  border-bottom: 3px solid black;
+  margin: 30px;
+}
+
+
+.food-list {
+  height: 1000px;
+}
+
+section {
+  display: flex;
+  background: burlywood;
+  margin: 10px auto;
+  width: 800px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.info {
+  margin-left: 50px;
+}
+
+
+footer {
+  padding: 64px 0;
+  background: black;
+  color: lightslategray;
+  text-align: center;
+  margin: 0;
+}
