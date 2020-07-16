@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+}
+header {
+  height: 200px;
+  background: #ffa500;
+  color: white;
+}
+header > h1 {
+ font-size: 100px;
+ font-family: "arial black";
+ display: inline;
+}
+
+header > p {
+ font-family: "arial unicode ms";
+ float: right;
+ font-size: 24px;
+ margin-top: 75px;
+}
+
+.wine {
+  width: 800px;
+  margin: 100px auto;
+  height: 1000px;
+}
+
+.wine > h1 {
+  border-bottom: 3px solid black;
+}
+
+section > ul {
+  text-align: center;
+  list-style: none;
+  margin-top: 50px;
+}
+
+li > img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: cadetblue;
+  margin: 0 auto;
+}
+
+
+.btn {
+ line-height: 60px;
+ margin-top: 10px;
+ color: black;
+}
+
+footer {
+  padding: 64px 0;
+  background: black;
+  color: lightslategray;
+  text-align: center;
+  margin: 0;
+}
