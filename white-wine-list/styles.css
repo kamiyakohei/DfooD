@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-size: 20px;
+  border-bottom: 3px solid black;
+  margin: 30px;
+}
+
+section {
+  margin-top: 40px;
+  height: 1000px;
+  text-align: center;
+}
+img {
+  height: 300px;
+}
+
+ul {
+  list-style: none;
+}
+
+footer {
+  padding: 64px 0;
+  background: black;
+  color: lightslategray;
+  text-align: center;
+  margin: 0;
+}
